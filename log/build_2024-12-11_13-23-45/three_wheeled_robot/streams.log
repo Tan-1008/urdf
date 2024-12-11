@@ -1,0 +1,24 @@
+[0.007s] Invoking command in '/home/tan/mrt/urdf_ws/build/three_wheeled_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tan/mrt/mrt_ws/install/week0_tutorials:/home/tan/mrt/mrt_ws/install/sauron:/home/tan/mrt/mrt_ws/install/aruco_detection:/opt/ros/humble /usr/bin/cmake --build /home/tan/mrt/urdf_ws/build/three_wheeled_robot -- -j12 -l12
+[0.040s] Invoked command in '/home/tan/mrt/urdf_ws/build/three_wheeled_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tan/mrt/mrt_ws/install/week0_tutorials:/home/tan/mrt/mrt_ws/install/sauron:/home/tan/mrt/mrt_ws/install/aruco_detection:/opt/ros/humble /usr/bin/cmake --build /home/tan/mrt/urdf_ws/build/three_wheeled_robot -- -j12 -l12
+[0.051s] Invoking command in '/home/tan/mrt/urdf_ws/build/three_wheeled_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tan/mrt/mrt_ws/install/week0_tutorials:/home/tan/mrt/mrt_ws/install/sauron:/home/tan/mrt/mrt_ws/install/aruco_detection:/opt/ros/humble /usr/bin/cmake --install /home/tan/mrt/urdf_ws/build/three_wheeled_robot
+[0.056s] -- Install configuration: ""
+[0.056s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/urdf
+[0.056s] -- Installing: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/urdf/my_robot.urdf
+[0.056s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/launch
+[0.056s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/launch/urdf_display.launch.py
+[0.057s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/ament_index/resource_index/package_run_dependencies/three_wheeled_robot
+[0.057s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/ament_index/resource_index/parent_prefix_path/three_wheeled_robot
+[0.057s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/environment/ament_prefix_path.sh
+[0.057s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/environment/ament_prefix_path.dsv
+[0.057s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/environment/path.sh
+[0.057s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/environment/path.dsv
+[0.058s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/local_setup.bash
+[0.058s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/local_setup.sh
+[0.058s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/local_setup.zsh
+[0.058s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/local_setup.dsv
+[0.059s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/package.dsv
+[0.059s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/ament_index/resource_index/packages/three_wheeled_robot
+[0.059s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/cmake/three_wheeled_robotConfig.cmake
+[0.059s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/cmake/three_wheeled_robotConfig-version.cmake
+[0.059s] -- Up-to-date: /home/tan/mrt/urdf_ws/install/three_wheeled_robot/share/three_wheeled_robot/package.xml
+[0.060s] Invoked command in '/home/tan/mrt/urdf_ws/build/three_wheeled_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tan/mrt/mrt_ws/install/week0_tutorials:/home/tan/mrt/mrt_ws/install/sauron:/home/tan/mrt/mrt_ws/install/aruco_detection:/opt/ros/humble /usr/bin/cmake --install /home/tan/mrt/urdf_ws/build/three_wheeled_robot
